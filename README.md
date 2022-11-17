@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8d3ac22fb06f4652bed3d9552db51dc4)](https://app.codacy.com/gh/Akash-Ch/commons_mosip?utm_source=github.com&utm_medium=referral&utm_content=Akash-Ch/commons_mosip&utm_campaign=Badge_Grade_Settings)
 [![Maven Package upon a push](https://github.com/mosip/commons/actions/workflows/push_trigger.yml/badge.svg?branch=release-1.2.0.1)](https://github.com/mosip/commons/actions/workflows/push_trigger.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mosip_commons&metric=alert_status)](https://sonarcloud.io/dashboard?branch=release-1.2.0.1&id=mosip_commons)
 
