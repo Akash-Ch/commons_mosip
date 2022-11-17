@@ -18,6 +18,7 @@ import org.springframework.data.repository.NoRepositoryBean;
  * 
  * @param <E> the type of the entity to handle
  * @param <T> the type of the entity's identifier
+ * pullrequest
  */
 @NoRepositoryBean
 public interface BaseRepository<E, T> extends JpaRepository<E, T> {
